@@ -1,0 +1,13 @@
+{
+  "name": "oxop-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "OXOP's portfolio website",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node -e \"const fs=require('fs');fs.rmSync('dist',{recursive:true,force:true});fs.mkdirSync('dist',{recursive:true});for(const f of ['index.html','style.css','script.js','projects.json'])fs.copyFileSync(f,'dist/'+f)\""
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
