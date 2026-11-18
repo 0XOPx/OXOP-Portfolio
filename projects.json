@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sauce",
+    "category": "SOUNDFONT",
+    "description": "A SoundFont project built with Polyphone, featuring a collection of instruments and presets.",
+    "github": "https://github.com/0XOPx/Sauce"
+  },
+  {
+    "name": "SvletePiano",
+    "category": "SFZ / AUDIO",
+    "description": "A piano sound project available in SFZ and No Pan SFZ formats.",
+    "github": "https://github.com/OXOPsSoundfonts"
+  },
+  {
+    "name": "boask",
+    "category": "PYTHON PACKAGE",
+    "description": "A Python package published on PyPI, with ongoing versioned development.",
+    "github": "https://github.com/0XOPx/boask"
+  },
+  {
+    "name": "OXOP Wordle",
+    "category": "WEB APPLICATION",
+    "description": "A daily Wordle-style web game with a shared UTC answer and a six-guess game loop.",
+    "github": "https://github.com/0XOPx"
+  }
+]
