@@ -21,6 +21,12 @@
     "name": "OXOP Wordle",
     "category": "WEB APPLICATION",
     "description": "A daily Wordle-style web game with a shared UTC answer and a six-guess game loop.",
-    "github": "https://github.com/0XOPx"
+    "github": "https://github.com/0XOPx/oxopwordle"
+  },
+  {
+    "name": "Calculator",
+    "category": "APPLICATION",
+    "description": "A game!",
+    "github": "https://github.com/0XOPx/calculator"
   }
 ]
